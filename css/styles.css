@@ -153,7 +153,8 @@ main{
 
 footer {
     text-align: center;
-    color: rgb(0, 0, 0);
+    background-color: rgba(22, 0, 4, 0.8);
+    color: #ffffff;
     padding: 10px 0;
     position: relative;
     bottom: 0;
