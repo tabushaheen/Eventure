@@ -1,4 +1,3 @@
-//array for each link (moving bottom squares)
 const links = [
     {
         "href": "https://www.mtl.org/en/what-to-do/festivals-and-events/luminotherapie-montreal",

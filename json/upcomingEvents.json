@@ -1,0 +1,51 @@
+[
+    {
+        "image": "images/soubois.jpg",
+        "name": "NYE 2025 at Soubois",
+        "date": "December 31, 2024",
+        "location": "Downtown Montreal",
+        "link": "https://www.tixr.com/groups/soubois/events/nye-celebration-2025-122898"
+    },
+    {
+        "image": "images/Kaytranada.jpg",
+        "name": "NYE2025: Kaytranada",
+        "date": "December 31, 2024",
+        "location": "Grand Quay of Port of Montreal",
+        "link": "https://ra.co/events/2057872"
+    },
+    {
+        "image": "images/iglooNye.jpg",
+        "name": "IGLOO NYE",
+        "date": "December 31, 2024",
+        "location": "Old Port of Montreal",
+        "link": "https://www.oldportofmontreal.com/event/igloo-nouvel"
+    },
+    {
+        "image": "images/rouge.jpg",
+        "name": "Rouge New Years Eve 2025",
+        "date": "December 31, 2024",
+        "location": "Le Rouge Bar",
+        "link": "https://www.montrealnewyearseve.com/events/moreinfo/47/"
+    },
+    {
+        "image": "images/SAT.jpg",
+        "name": "SAT X NYE",
+        "date": "December 31, 2024",
+        "location": "Socitety for Arts and Technology",
+        "link": "https://sat.qc.ca/en/events/sat-x-nye/"
+    },
+    {
+        "image": "images/nomad.jpg",
+        "name": "NOMAD NYE ANTENNAE",
+        "date": "December 31, 2024",
+        "location": "NOMAD Life",
+        "link": "https://ra.co/events/2049595"
+    },
+    {
+        "image": "images/NCG.jpg",
+        "name": "NYE 2025 Markus Schulz",
+        "date": "December 31, 2024",
+        "location": "New City Gas",
+        "link": "https://www.tixr.com/groups/newcitygas/events/markus-schulz-121845"
+    }
+]
